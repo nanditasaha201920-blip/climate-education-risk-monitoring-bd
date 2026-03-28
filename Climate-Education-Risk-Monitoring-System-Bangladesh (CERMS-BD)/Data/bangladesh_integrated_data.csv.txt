@@ -1,0 +1,10 @@
+district,division,rainfall_mm,flood_risk,cyclone_risk,salinity_risk,attendance_rate,dropout_rate,school_closure_days,poverty_rate,child_labor_rate,displacement_rate
+Satkhira,Khulna,2200,0.85,0.95,0.95,0.60,0.35,45,0.46,0.32,0.45
+Khulna,Khulna,2100,0.75,0.85,0.85,0.68,0.28,38,0.40,0.29,0.38
+Bhola,Barisal,2300,0.80,0.95,0.75,0.62,0.33,42,0.44,0.33,0.42
+Barguna,Barisal,2250,0.80,0.90,0.80,0.64,0.31,40,0.43,0.31,0.40
+Patuakhali,Barisal,2150,0.75,0.88,0.78,0.66,0.29,38,0.42,0.30,0.37
+Jamalpur,Mymensingh,2000,0.92,0.10,0.00,0.68,0.28,35,0.45,0.28,0.28
+Gaibandha,Rangpur,2100,0.94,0.10,0.00,0.67,0.29,38,0.48,0.30,0.30
+Kurigram,Rangpur,2200,0.96,0.05,0.00,0.65,0.32,42,0.52,0.34,0.35
+Sunamganj,Sylhet,4500,0.98,0.15,0.00,0.60,0.35,50,0.46,0.29,0.32
