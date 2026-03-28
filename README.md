@@ -18,7 +18,10 @@ Identifies districts and populations at risk of climate-induced school dropout
 Integrates multi-source data for predictive analysis
 Generates early warning alerts for policymakers and NGOs
 Supports targeted, data-driven interventions
+
 🧠 System Architecture
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/593e2040-818b-450f-80ad-b5ccc3db0b85" />
+
 
 The CERMS-BD system is built on four key layers:
 
