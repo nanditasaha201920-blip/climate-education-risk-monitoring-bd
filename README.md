@@ -2,6 +2,8 @@
 
 A Data-Driven Early Warning Framework for Climate-Induced Educational Disruption in Bangladesh
 
+Live App: https://cermsbdriskenginepy-3mrrkbz8knn3usrs8gnawn.streamlit.app/
+
 🌍 Project Overview
 
 The Climate-Education Risk Monitoring System (CERMS-BD) is a data-driven prototype designed to identify and predict climate-induced risks to education systems in Bangladesh.
